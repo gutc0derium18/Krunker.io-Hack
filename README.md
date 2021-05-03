@@ -1,3 +1,3 @@
 # Krunker.io-Hack
 
-<h2>Userscript: <a href="extension://iikmkjmpaadaobahmlepeloendndfphd/options.html#nav=6cae041b-d5bb-4693-864c-559b6cd5dc17" target="_blank">CLICK HERE</a></h2>
+<h2>Userscript: <a href="https://github.com/gutc0derium18/Krunker.io-Hack/blob/main/You%20are%20all%20cu--z.user.js" target="_blank">CLICK HERE</a></h2>
